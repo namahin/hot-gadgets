@@ -36,6 +36,8 @@
     border-radius: 40px 5px 20px 5px;
     transition: linear .2s;
 
+    display: block !important;
+    width: 100%;
 }
 
 .cat-card:hover {
