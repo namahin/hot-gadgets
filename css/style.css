@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Poppins';
+}
+
+.nav-link {
+    color: #707070;
+}
+
+.carousel-item .carousel-contant {
+    padding-top: 150px;
+}
+
+.card {
+    padding: 50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    border-color: #fff;
+    box-shadow: 0 10px 30px #0000000a;
+    transition: linear .2s;
+}
+
+.card:hover {
+    box-shadow: 0 10px 30px #00000030;
+    transition: linear .2s;
+}
